@@ -8,17 +8,37 @@
 
 /* Begin PBXBuildFile section */
 		5C67AE572876C3ED0070532A /* SwiftDemoIpshitaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE562876C3ED0070532A /* SwiftDemoIpshitaApp.swift */; };
-		5C67AE592876C3ED0070532A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE582876C3ED0070532A /* ContentView.swift */; };
-		5C67AE5B2876C3F30070532A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C67AE5A2876C3F30070532A /* Assets.xcassets */; };
 		5C67AE5E2876C3F30070532A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C67AE5D2876C3F30070532A /* Preview Assets.xcassets */; };
+		5C67AE762876C6120070532A /* SwiftDemoipApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE642876C6100070532A /* SwiftDemoipApp.swift */; };
+		5C67AE772876C6120070532A /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE652876C6100070532A /* TextFields.swift */; };
+		5C67AE792876C6120070532A /* LoginPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE672876C6110070532A /* LoginPageView.swift */; };
+		5C67AE7A2876C6120070532A /* ViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE682876C6110070532A /* ViewModifier.swift */; };
+		5C67AE7D2876C6120070532A /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C67AE6B2876C6110070532A /* Launch Screen.storyboard */; };
+		5C67AE7E2876C6120070532A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE6C2876C6110070532A /* ContentView.swift */; };
+		5C67AE7F2876C6120070532A /* Customs in Resources */ = {isa = PBXBuildFile; fileRef = 5C67AE6D2876C6110070532A /* Customs */; };
+		5C67AE802876C6120070532A /* SocialsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE6E2876C6110070532A /* SocialsButton.swift */; };
+		5C67AE812876C6120070532A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C67AE6F2876C6110070532A /* Assets.xcassets */; };
+		5C67AE842876C6120070532A /* NewLoginPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE722876C6120070532A /* NewLoginPageView.swift */; };
+		5C67AE852876C6120070532A /* NewSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE732876C6120070532A /* NewSignUpView.swift */; };
+		5C67AE872876C6120070532A /* SecureTextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C67AE752876C6120070532A /* SecureTextFields.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5C67AE532876C3ED0070532A /* SwiftDemoIpshita.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDemoIpshita.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C67AE562876C3ED0070532A /* SwiftDemoIpshitaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDemoIpshitaApp.swift; sourceTree = "<group>"; };
-		5C67AE582876C3ED0070532A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		5C67AE5A2876C3F30070532A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C67AE5D2876C3F30070532A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5C67AE642876C6100070532A /* SwiftDemoipApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftDemoipApp.swift; sourceTree = "<group>"; };
+		5C67AE652876C6100070532A /* TextFields.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
+		5C67AE672876C6110070532A /* LoginPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginPageView.swift; sourceTree = "<group>"; };
+		5C67AE682876C6110070532A /* ViewModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewModifier.swift; sourceTree = "<group>"; };
+		5C67AE6B2876C6110070532A /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		5C67AE6C2876C6110070532A /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../SwiftDemoip/SwiftDemoip/ContentView.swift; sourceTree = "<group>"; };
+		5C67AE6D2876C6110070532A /* Customs */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Customs; sourceTree = "<group>"; };
+		5C67AE6E2876C6110070532A /* SocialsButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SocialsButton.swift; sourceTree = "<group>"; };
+		5C67AE6F2876C6110070532A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../SwiftDemoip/SwiftDemoip/Assets.xcassets; sourceTree = "<group>"; };
+		5C67AE722876C6120070532A /* NewLoginPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewLoginPageView.swift; sourceTree = "<group>"; };
+		5C67AE732876C6120070532A /* NewSignUpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewSignUpView.swift; sourceTree = "<group>"; };
+		5C67AE752876C6120070532A /* SecureTextFields.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecureTextFields.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +71,19 @@
 		5C67AE552876C3ED0070532A /* SwiftDemoIpshita */ = {
 			isa = PBXGroup;
 			children = (
+				5C67AE6C2876C6110070532A /* ContentView.swift */,
+				5C67AE6D2876C6110070532A /* Customs */,
+				5C67AE6B2876C6110070532A /* Launch Screen.storyboard */,
+				5C67AE672876C6110070532A /* LoginPageView.swift */,
+				5C67AE722876C6120070532A /* NewLoginPageView.swift */,
+				5C67AE732876C6120070532A /* NewSignUpView.swift */,
+				5C67AE752876C6120070532A /* SecureTextFields.swift */,
+				5C67AE6E2876C6110070532A /* SocialsButton.swift */,
+				5C67AE642876C6100070532A /* SwiftDemoipApp.swift */,
+				5C67AE652876C6100070532A /* TextFields.swift */,
+				5C67AE682876C6110070532A /* ViewModifier.swift */,
 				5C67AE562876C3ED0070532A /* SwiftDemoIpshitaApp.swift */,
-				5C67AE582876C3ED0070532A /* ContentView.swift */,
-				5C67AE5A2876C3F30070532A /* Assets.xcassets */,
+				5C67AE6F2876C6110070532A /* Assets.xcassets */,
 				5C67AE5C2876C3F30070532A /* Preview Content */,
 			);
 			path = SwiftDemoIpshita;
@@ -125,8 +155,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C67AE7D2876C6120070532A /* Launch Screen.storyboard in Resources */,
+				5C67AE7F2876C6120070532A /* Customs in Resources */,
 				5C67AE5E2876C3F30070532A /* Preview Assets.xcassets in Resources */,
-				5C67AE5B2876C3F30070532A /* Assets.xcassets in Resources */,
+				5C67AE812876C6120070532A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +169,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C67AE592876C3ED0070532A /* ContentView.swift in Sources */,
 				5C67AE572876C3ED0070532A /* SwiftDemoIpshitaApp.swift in Sources */,
+				5C67AE852876C6120070532A /* NewSignUpView.swift in Sources */,
+				5C67AE872876C6120070532A /* SecureTextFields.swift in Sources */,
+				5C67AE762876C6120070532A /* SwiftDemoipApp.swift in Sources */,
+				5C67AE842876C6120070532A /* NewLoginPageView.swift in Sources */,
+				5C67AE802876C6120070532A /* SocialsButton.swift in Sources */,
+				5C67AE772876C6120070532A /* TextFields.swift in Sources */,
+				5C67AE7A2876C6120070532A /* ViewModifier.swift in Sources */,
+				5C67AE7E2876C6120070532A /* ContentView.swift in Sources */,
+				5C67AE792876C6120070532A /* LoginPageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
